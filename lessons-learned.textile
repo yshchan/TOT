@@ -1,0 +1,24 @@
+h2. The Tale of A Failed Programmer
+
+During my experience as a software developer, I failed quite a lot, I sold software paradigms, I wrote rubbish code, I wasted two years of my life doing something with no real gain. Here are my experiences and lessons learned to try to decouple failure.
+
+h3. Simple. Intuitive. Fast. 
+
+A piece of unremembered software is introduced on April 1st, debutting as a simple, fast and intuitive task manager. The product initally began as a client for Ta-da Lists[1], unfouranetly built near the service's integration to Basecamp. With a few lines of code removed and a couple more added, the product is refurbished and ready for a solo act. When published, the product is sold to 5 people. Some friends and family others legitimate customers. That was the heighest sale, it could grasp, and soon after died in the shadows of it's competitors. 
+
+I made that task manager, it's name was Timely and was my first software product. I grew quite attached to it, it was sort of my personal sandbox. I would experiment with it, try new coding techniques and implement new exciting features until it turned to a bloated software with beautiful code. Then I would split it, and build other full featured versions of it until I got versions that each complied with the slogan "Simple. Intuitive. Fast." In total, two years passed until I fixed on a version to actually release. But the product failed. I was a programmer and designer, but far from a marketer. With that, I learned one thing , "Market your product, first!" Test the waters, explore other people's products and test your own iterations on potential customers until you get a solid user base. If you can generate your own market before actually selling, you're gold. 
+
+h3. The Hiatus 
+
+In a quick moment of judgment, I started to panic on generating revenue, one app down the drain, time for another. So I ruminated for a week or two and saw Scrivener and Ulysses. Two advanced writing apps with their own specific flaws. There an idea struck me, I decided to fill the gap of these two apps and introduce a "middle-man" type writing app. I codenamed it "Tsukimi" because that was the first thing that came to mind. I was quite familiar with Cocoa because of iOS, so I decided to stick with that market. Within a few days, I came up with a working prototype. It was mediocre but it worked and conveyed the idea. Learning from my first mistake, I advertised in secret, sending emails to some popular internet bloggers and writing communities to peak an interest for a potential market. The subject line was: "A New Breed of Markup Apps (Mac)". My emails basically followed this template. 
+	
+	Hi! 
+	I am developing a markup text editor for the Mac, codenamed Tsukimi. Nothing public as yet, but I really want feedback for the prototype version of the app. [compliment your recipitant]. I thought that maybe you could be a suitable person to review my work. Thank you for reading this!
+	
+In the end, the first person to reply was a gentlement by the name of Jonathan Poritsky. He was intrigued and so I worked on some prototype screenshots to send him, which intrigued him more. But by the time I worked on my fourth prototype, I got an email from a freelance writer, saying that writers just need a program to write with. He used TextEdit, nothing more. With that, I was confused. I hogged five full weeks to complete this app near the finish line, and now someone was saying that it was useless. So I decided, screw that, I will finish this and sell it to another developer, or even open source it. With that entire experience, I learned few things.
+
+* _Be patient_, you got an idea, plan how you are going to proceed, everybody is on their own schedule so don't expect them to jump the horse and follow yours. Once you have planned, prioritize and estimate, then work. Work full time on it and finish it. Sell the very first perfect version of the app and see what happens, do your customers like what what they see or do they think it's mediocre? If it's mediocre, work until it's done or if you don't have the time for that, find someone who would want some of that code. 
+
+* _Don't copy_, Tsukimi could be argued to be a blatent ripoff of Ulysses 2. It borrowed some quite a few user interface characteristics and resembled the featureset a lot. On top of that, it was outdated, Ulysses 3 had been released completely new and fresh, plus it was remarkbly good. Why build something if there is already someone doing it perfectly well?  
+
+fn1. Ta-da lists was a free simple and versatile task management software for the web, built by 37signals. It grew quite popular at it's peak but was shut down, when 37signals integrated it in their star product, Basecamp.
